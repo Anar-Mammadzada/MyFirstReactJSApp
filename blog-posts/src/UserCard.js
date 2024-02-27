@@ -14,6 +14,7 @@ const UserCard = (props) =>{
             <div className='ui bottom button'>
                     <i className='add icon'></i>
                     Add Friend
+                    
             </div>
         </div>
     )
