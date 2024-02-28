@@ -15,7 +15,7 @@ const App = () => {
                 </div>
             </UserCard>
             <UserCard>
-                <SingleComment name='Arunas' date='Today at 5:00 PM' text='its amazing' picture={profile1} />
+                <SingleComment name='Anar' date='Today at 5:00 PM' text='its amazing' picture={profile1} />
             </UserCard>
             <UserCard>
                 <SingleComment name='Ayaz' date='Today at 6:00 AM' text='I am qalosh' picture={profile2} />
